@@ -1,0 +1,28 @@
+[
+    {
+        "albumname": "Ain't Seen Nothing Like This",
+        "artist": "Rad cat",
+        "image": "https://i1.sndcdn.com/artworks-RkObYZBLWXC3-0-t500x500.png",
+        "color": "lightblue"
+    },{
+        "albumname": "I Believe In Us",
+        "artist": "Reigan",
+        "image": "https://static.wikia.nocookie.net/mrfz/images/6/61/IBelieveInUsArtwork.jpg/revision/latest/scale-to-width-down/600?cb=20211025115321",
+        "color": "#2f4f4f"
+    },{
+        "albumname": "Radiant",
+        "artist": "Mary Clare",
+        "image": "https://static.wikia.nocookie.net/mrfz/images/c/ca/Radiant.png/revision/latest/scale-to-width-down/600?cb=20220224064937",
+        "color": "#ffffe0"
+    },{
+        "albumname": "Settle In To Ash",
+        "artist": "Adam Gubman",
+        "image": "https://arknights.wiki.gg/images/4/49/Settle_Into_Ash.jpg",
+        "color": "#cd5c5c"
+    },{
+        "albumname": "Ständchen",
+        "artist": "Airton Santos Araujo",
+        "image": "https://static.wikia.nocookie.net/mrfz/images/1/18/St%C3%A4ndchen.png/revision/latest/scale-to-width-down/600?cb=20220609075610",
+        "color": "#708090"
+    }
+]
